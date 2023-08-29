@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furyvinay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furyvinay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="250" src="https://lh3.googleusercontent.com/pw/AIL4fc_Z_XEmkaO-sChtnh2-tBJSWopB9dZNR04OSXK661B_8W1QsQnk5Hv61iW9rzVXM7B7VCZR8hwv7oWyCDgYwxdNF-swzqUhs85fVL_al3hOzz1zOnJuOmVqVjsanbUtJn_mFtf4Q0MUCqoijjp-BfbxHkmBCQYDvL6oAojdNF0DmHs9uwI2Qxo0u4WSA_mU-ucofYTNfz7EMnE6cqHt-Bf__AYuiDZ4iXf7Y0xm3_Gbxk-l5lovPoBlc_F_vuJu6CVMzy06o-TQAKdcZSoQwRWiaUIwH9w1rDIG8Bevc1y2AeGU-vKMRGY18Nd3jLNU7rIkNxg4mqR-tV-DXivGTqRIYYRTlpZXpAZeP8zCcoXDyAtXibXtLFs5deAv3ZZErK6koCpMj7MHs0p54L6-asSRrMvpa_MfGTPziYi-ndhms-pV4expwqcN1qflSKkssB81BwfiPAStR0-7yv9joas0WOMNOqGhWaNJibzco428laPpKfWVCiqK00e4Ike2F5qyW9o1mmT6y91Ha3l0jD5ctrlQb4_bMeas-Du9Y-O59HjJWQ4OU__p_JXL3389PfEz-6grlCCvSja9nkbVbgeA0RA_mek3e4sjmSNhS4SWVopyYqsAlXjYoRntW3M7i8CVqxK60f2ANKAErVI9B2txryGz_HZLWcixzyECUN0zXi6o8OlMLNa1z2yKNsIXhCPkaOsL2kynWj7VZjv-Uf47HUh8I6WXXvQpvw6Qy0JCw3bVyO5sdnCHL5UE5EEMzN-wKYfhCRQbViywKU-NXMBmCmrQGPPTENwcQAPWZK3GOR7hztr284zj5SYfjviWy-GlP9JUk14XKbIHwX298H7BL9QnRyhN_ZjSRHqEU29CBfcY7kstNtRBFQYAB7Z9NY2yAlcymt_SWWsAKfbbO9zdLV55bUAX94OhZC-viwMBJKxLnZjC_zYuN7fqY5yYeNdB5y1i2prFeyyEp2ySNBClaOSQ3JCyXvzmYbN8VPQYF7sLT4DWCQ2VPu_s1bWuVTE8sQ=w670-h893-s-no?authuser=2"  />
 
 ###
@@ -46,5 +53,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/furyvinay/furyvinay/output/snake.svg" alt="Snake animation" />
 
 ###
